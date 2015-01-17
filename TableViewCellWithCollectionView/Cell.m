@@ -7,7 +7,6 @@
 //
 
 #import "Cell.h"
-#import "CollectionCell.h"
 
 @implementation Cell
 
@@ -37,8 +36,10 @@
 
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    CollectionCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"Cell" forIndexPath:indexPath];
-    cell.label.text = [NSString stringWithFormat:@"%i", indexPath.row];
+    UICollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"Cell" forIndexPath:indexPath];
+    
+    UILabel *label = (UILabel *)[cell viewWithTag:100];
+    label.text = [NSString stringWithFormat:@"%li", (long)indexPath.row];
     return cell;
 }
 

@@ -10,31 +10,31 @@
 	<string>TableViewCellWithCollectionView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8FA46DC5-664E-444B-8A0A-E08F2B40DC24</key>
-		<string>https://github.com/rmurdoch/GitHub.git</string>
+		<key>5CBBD41C028BE97B9EFA0D7FB2B1272D12684E4A</key>
+		<string>https://github.com/rmurdoch/TableViewCellWithCollectionView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TableViewCellWithCollectionView/TableViewCellWithCollectionView.xcodeproj/project.xcworkspace</string>
+	<string>TableViewCellWithCollectionView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8FA46DC5-664E-444B-8A0A-E08F2B40DC24</key>
-		<string>../../..</string>
+		<key>5CBBD41C028BE97B9EFA0D7FB2B1272D12684E4A</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/rmurdoch/GitHub.git</string>
+	<string>https://github.com/rmurdoch/TableViewCellWithCollectionView.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8FA46DC5-664E-444B-8A0A-E08F2B40DC24</string>
+	<string>5CBBD41C028BE97B9EFA0D7FB2B1272D12684E4A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8FA46DC5-664E-444B-8A0A-E08F2B40DC24</string>
+			<string>5CBBD41C028BE97B9EFA0D7FB2B1272D12684E4A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GitHub</string>
+			<string>TableViewCellWithCollectionView</string>
 		</dict>
 	</array>
 </dict>
